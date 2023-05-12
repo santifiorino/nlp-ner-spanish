@@ -39,7 +39,7 @@ def train_model(nlp, train_data, iterations):
     
 def main():
     if len(sys.argv) != 3:
-        print("Usage: python train.py dataset_file.csv iterations")
+        print("Uso: python train.py dataset.csv nro_iteraciones")
         sys.exit(1)
     dataset_file = sys.argv[1]
     iterations = int(sys.argv[2])
