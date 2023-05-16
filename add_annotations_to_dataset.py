@@ -29,10 +29,6 @@ def main():
             start += word_len + 1
         entities = tuple[1]["entities"]
         all_entities = ["O"] * len(words)
-        print(sentence)
-        print(words_spans)
-        print(entities)
-        print()
         for entity in entities:
             entity_start = entity[0]
             entity_end = entity[1]
@@ -44,7 +40,6 @@ def main():
         for i in range(len(words)):
             words[i] = words[i].strip('.,;:¿?! ')
         for i in range(len(words)):
-            # append to df
             df = df.append({'Chat #': chat_num, 'Sentence #': sentence_num, 'Word': words[i], 'Tag': all_entities[i]}, ignore_index=True)
         sentence_num += 1
 

@@ -8,7 +8,7 @@ La página web https://tecoholic.github.io/ner-annotator/ te da una interfaz ami
 python add_annotations_to_dataset.py
 ```
 
-El script <a href="https://github.com/santifiorino/spanish_ner/blob/main/add_annotations_to_dataset.py">add_annotations_to_dataset.py</a> se fijará si existe el archivo _dataset.csv_. En caso de que exista, agrega la información nueva al final, manteniendo la numeración existente. En caso de que no exista, crea el archivo.
+El script <a href="https://github.com/santifiorino/spanish_ner/blob/main/add_annotations_to_dataset.py">add*annotations_to_dataset.py</a> se fijará si existe el archivo \_dataset.csv*. En caso de que exista, agrega la información nueva al final, manteniendo la numeración existente. En caso de que no exista, crea el archivo.
 
 ## Modelo de spaCy
 
@@ -30,4 +30,4 @@ Una vez entrenado, si se quiere clasificar un texto simplemente se debe correr e
 python predict.py texto_entrada.txt
 ```
 
-El script <a href="https://github.com/santifiorino/spanish_ner/blob/main/predict.py">predict.py</a> busca el modelo entrenado con mayor número de iteraciones, lo carga, e imprime todas las entidaes presentes en el texto dado.
+El script <a href="https://github.com/santifiorino/spanish_ner/blob/main/predict.py">predict.py</a> busca el modelo entrenado con mayor número de iteraciones, lo carga, e imprime todas las entidades presentes en el texto dado.
