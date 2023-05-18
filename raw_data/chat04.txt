@@ -1,0 +1,12 @@
+﻿Cliente: Hola, ¿qué tal? Soy Pablo Gómez y me quiero dar de baja de Celtel.
+Empleado: Hola, Pablo. Lamentamos que quieras darte de baja de nuestro servicio. ¿Podrías decirnos el motivo de tu decisión?
+Cliente: Sí, claro. El motivo es que son unos ladrones y unos estafadores. Me cobran una fortuna por un servicio que no funciona bien. Me quedo sin señal, sin datos y sin saldo. Además, me ofrecieron un plan que no cumple con lo que prometieron. Estoy harto de Celtel y quiero cancelar mi cuenta ya mismo.
+Empleado: Sentimos mucho que hayas tenido una mala experiencia con nuestro servicio, Pablo. Queremos pedirte disculpas por las molestias ocasionadas y ofrecerte una solución. ¿Te gustaría cambiar de plan o acceder a algún beneficio exclusivo para clientes insatisfechos?
+Cliente: No, no quiero nada de eso. Lo único que quiero es darme de baja y que me devuelvan mi dinero. ¿Es mucho pedir?
+Empleado: No, por supuesto que no. Respetamos tu decisión y queremos ayudarte a realizar el trámite de baja. Para eso, solo necesitamos algunos datos tuyos. ¿Nos podrías decir tu nombre completo, tu número de teléfono y tu correo electrónico?
+Cliente: Sí, cómo no. Me llamo Pablo Andrés Gómez, mi número de teléfono es el 1107535123 y mi correo electrónico es pablogomez@outlook.com.
+Empleado: Gracias por la información, Pablo. Ahora solo nos falta que nos envíes una copia de tu documento de identidad y una factura de algún servicio a tu nombre para verificar tu identidad y tu domicilio. ¿Podés hacerlo ahora mismo?
+Cliente: Sí, claro. Esperame un ratito que busco los documentos y te los mando por correo electrónico.
+Empleado: Perfecto. Te esperamos unos minutos y luego seguimos con el proceso de baja de tu cuenta.
+Cliente: Gracias por tu atención y paciencia.
+Empleado: De nada, Pablo. Es un deber atenderte.

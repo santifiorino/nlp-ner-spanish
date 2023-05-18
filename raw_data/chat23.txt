@@ -1,0 +1,13 @@
+Cliente: Hola, soy Matías y llamo para cambiar de plan de telefonía móvil.
+Empleado: Hola, Matías. Gracias por contactar con Celtel. Para poder atender su solicitud, necesito que me indique su fecha de nacimiento y su correo electrónico.
+Cliente: Claro, mi fecha de nacimiento es el 15/03/1985 y mi correo electrónico es matiasbattista@gmail.com.
+Empleado: Muy bien, Matías. He verificado sus datos y veo que actualmente tiene el plan escencial, que le ofrece 200 minutos de llamadas, 2 GB de datos y 100 SMS por mes. ¿A qué plan desea cambiarse?
+Cliente: Me gustaría cambiarme al plan ilimitado, que creo que tiene llamadas, datos y SMS ilimitados, ¿verdad?
+Empleado: Así es, Matías. El plan ilimitado le ofrece todo eso por un precio fijo mensual. Además, si usted trabaja en alguna de las empresas asociadas a Celtel, puede beneficiarse de un descuento especial. ¿En qué empresa trabaja y desde cuándo?
+Cliente: Trabajo en la empresa NVIDIA desde el 30 de diciembre del 2003. Mi id de empleado es 008761.
+Empleado: Perfecto, Matías. He comprobado que la empresa Telecom es una de nuestras empresas asociadas y que usted tiene derecho a un descuento del 10% en el plan ilimitado. ¿Desea confirmar el cambio de plan?
+Cliente: Sí, por favor. Me parece una buena oferta.
+Empleado: Muy bien, Matías. He realizado el cambio de plan y le llegará un correo electrónico con los detalles. A partir del próximo mes, podrá disfrutar del plan ilimitado con el descuento aplicado. ¿Hay algo más en lo que pueda ayudarle?
+Cliente: No, eso es todo. Muchas gracias por su atención y amabilidad.
+Empleado: De nada, Matías. Ha sido un placer atenderle. Le agradecemos su confianza en Celtel y le deseamos un buen día. Adiós.
+Cliente: Adiós.

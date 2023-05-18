@@ -1,0 +1,21 @@
+Cliente: Hola, soy Pedro López y los llamo para darme de baja. Estoy harto de su servicio, es una porquería.
+Empleado: Hola, Pedro. Sentimos que quiera darse de baja. Para verificar su identidad, necesitamos que nos proporcione su fecha de nacimiento y su correo electrónico.
+Cliente: Claro, mi fecha de nacimiento es el 1 de abril de 1976 y mi correo electrónico es pedrolopez@celtel.com.
+Empleado: Gracias, Pedro. Hemos verificado su cuenta. Ahora, ¿podría decirnos por qué quiere darse de baja?
+Cliente: ¿Por qué? ¿En serio me lo pregunta? Porque su servicio es una estafa. Me cobran de más, me cortan las llamadas, me quedo sin datos, me mandan spam... ¿Sigo?
+Empleado: Vaya, Pedro. Lamentamos que haya tenido esas experiencias negativas. Pero no se preocupe, tenemos la solución para usted.
+Cliente: ¿Ah, sí? ¿Cuál es?
+Empleado: Le ofrecemos un cambio de plan a nuestro plan ilimitado, que le ofrece llamadas, mensajes de texto y datos ilimitados por solo $49.99 al mes. Además, puede compartir su plan con hasta cinco líneas adicionales sin costo extra. También tiene acceso a nuestra red 5G más rápida y confiable.
+Cliente: ¿Me está tomando el pelo? ¿Cree que soy tonto? Ese plan es una basura. No quiero nada de Celtel. Quiero darme de baja ya.
+Empleado: Pero Pedro, piénselo bien. Si se da de baja perderá todos los beneficios que le ofrece Celtel. Además, tendrá que pagar una penalización por cancelar su contrato antes de tiempo.
+Cliente: ¿Qué penalización? ¿De qué contrato me habla?
+Empleado: Cuando se dio de alta en Celtel aceptó un contrato por dos años con una cláusula de permanencia. Si se da de baja antes de cumplir ese plazo, tendrá que pagar una multa de $200.
+Cliente: Eso es mentira. Yo nunca firmé ningún contrato ni acepté ninguna cláusula.
+Empleado: Lo siento, Pedro. Pero está en las letras pequeñas del contrato que le enviamos por correo electrónico cuando se dio de alta. Si quiere le puedo enviar una copia.
+Cliente: No me interesa su copia. Quiero hablar con un supervisor. Esto es un abuso.
+Empleado: Por supuesto, Pedro. Le voy a transferir con un supervisor. Pero antes de hacerlo, ¿podría decirnos en qué empresa trabaja y desde cuándo?
+Cliente: ¿Qué tiene que ver eso con nada? ¿Acaso me van a espiar?
+Empleado: No, Pedro. Es solo una encuesta para conocer mejor a nuestros clientes y ofrecerles un servicio personalizado.
+Cliente: Pues yo no quiero su servicio personalizado ni nada de ustedes. Trabajo en la empresa EY desde el primero de julio del 2023. Mi id de empleado es el 987654.
+Empleado: Gracias por esa información, Pedro. Es un placer tenerlo como cliente de Celtel. Ahora le voy a transferir con un supervisor. Por favor espere en línea.
+Cliente: Sí, espere en línea... como si tuviera todo el día para perder el tiempo con ustedes.

@@ -1,0 +1,18 @@
+Cliente: Hola, ¿cómo andan? Soy Sofía Díaz y me quiero hacer una cuenta en Celtel.
+Empleado: Bienvenida a Celtel, Sofía. Estamos muy felices de que nos hayas elegido como tu proveedor de telefonía. Para crear tu cuenta, solo tenemos que hacerte unas consultas. ¿Te parece bien?
+Cliente: Sí, dale.
+Empleado: Buenísimo. ¿Nos podrías decir tu nombre completo, tu fecha de nacimiento y tu dirección?
+Cliente: Sí, por supuesto. Me llamo Sofía Lucía Díaz Martínez, nací el 5/5/1992 y vivo en la calle Mitre 123.
+Empleado: Gracias por la información, Sofía. ¿Y cuál es tu correo electrónico y tu número de teléfono?
+Cliente: Mi correo es sofiadiaz@gmail.com y mi teléfono es el 1109271988.
+Empleado: Genial. Ahora solo nos faltan algunos datos de tu empresa. ¿Nos podrías contar dónde trabajas y desde cuándo estás en esa empresa?
+Cliente: Sí, claro. Trabajo en Despegar desde el 8 de julio del 2023.
+Empleado: Muy bien. Ya tenemos todos los datos necesarios para crear tu cuenta. Ahora solo falta que elijas el plan que más te guste. Tenemos cuatro opciones: plan ilimitado, plan escencial, plan familiar y plan internacional. ¿Querés que te contemos las características y beneficios de cada uno?
+Cliente: Sí, por favor.
+Empleado: El plan ilimitado te ofrece llamadas, mensajes y datos ilimitados dentro del país por un precio fijo mensual. El plan escencial te ofrece una cantidad limitada de minutos, mensajes y datos por un precio más económico. El plan familiar te permite compartir los beneficios del plan ilimitado o escencial con hasta cuatro líneas adicionales por un precio especial. Y el plan internacional te ofrece llamadas, mensajes y datos ilimitados dentro del país y a más de 50 destinos internacionales por un precio superior al del plan ilimitado. ¿Tenés alguna duda sobre los planes?
+Cliente: No, la verdad que no. Me parece que me voy a anotar al plan internacional, ya que me encanta viajar y quiero estar comunicada con mis amigos y familiares en el exterior.
+Empleado: Muy buena elección, Sofía. El plan internacional te ofrece la mejor cobertura y calidad de servicio en el mercado. Para confirmar tu inscripción al plan internacional, solo necesitamos que nos mandes una copia de tu documento de identidad y una factura de algún servicio a tu nombre para verificar tu domicilio. ¿Podés hacerlo ahora mismo?
+Cliente: Sí, claro. Esperame un ratito que busco los documentos y te los mando por correo electrónico.
+Empleado: Perfecto. Te esperamos unos minutos y luego seguimos con el proceso de activación de tu línea.
+Cliente: Gracias por tu atención y paciencia.
+Empleado: De nada, Sofía. Es un gusto atenderte.

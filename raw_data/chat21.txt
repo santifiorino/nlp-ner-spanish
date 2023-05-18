@@ -1,0 +1,26 @@
+Cliente: Hola, soy Laura Martínez y los contacto para cambiarme de plan, al ilimitado.
+Empleado: Hola Laura, gracias por elegir Celtel. Estamos encantados de que quieras disfrutar de nuestro plan ilimitado, que te ofrece llamadas, mensajes y datos móviles sin límites por un precio fijo mensual.
+Cliente: Sí, me parece una oferta muy conveniente, porque conseguí un nuevo trabajo y escuché por ahí que con ese nuevo puesto me daban descuento en el plan ilimitado.
+Empleado: ¡Qué buena noticia! Felicitaciones por tu nuevo trabajo. Efectivamente, tenemos convenios con algunas empresas que ofrecen descuentos a sus empleados en el plan ilimitado. ¿En qué empresa trabajas?
+Cliente: Trabajo en IBM.
+Empleado: Gracias. ¿Desde cuándo trabajas en esa empresa?
+Cliente: Empecé a trabajar el 1 de mayo del 2023.
+Empleado: Gracias. ¿Cuál es tu número de empleado?
+Cliente: Mi número de empleado es el 938271.
+Empleado: Gracias. Voy a verificar si tu empresa tiene convenio con nosotros y si calificas para el descuento. Solo te pido que esperes unos segundos.
+Cliente: De acuerdo. Espero su respuesta.
+Empleado: Te informo que tu empresa sí tiene convenio con nosotros y que tú sí calificas para el descuento. El precio del plan ilimitado para ti sería de $40 mensuales en lugar de $50. ¿Te interesa hacer el cambio?
+Cliente: Sí, me interesa mucho. ¿Qué tengo que hacer para cambiarme al plan ilimitado?
+Empleado: Es muy fácil. Solo necesitamos verificar algunos datos tuyos para hacer el cambio. Empecemos por tu fecha de nacimiento. ¿Cuándo naciste?
+Cliente: Nací el 10/08/1990.
+Empleado: Gracias. Ahora necesitamos tu email. ¿Cuál es tu dirección de correo electrónico?
+Cliente: Mi email es lauramartinez@gmail.com.
+Empleado: Perfecto. Por último, necesitamos tu número de teléfono. ¿Cuál es el número al que quieres aplicar el plan ilimitado?
+Cliente: Mi número es el 1139201928.
+Empleado: Muy bien. Ya tenemos todos los datos necesarios para hacer el cambio. Solo te pedimos que esperes unos minutos mientras procesamos tu solicitud.
+Cliente: De acuerdo. Muchas gracias por su atención.
+Empleado: De nada. Es un placer atenderte. Te informamos que tu solicitud ha sido procesada con éxito y que ya puedes disfrutar del plan ilimitado de Celtel con el descuento aplicado. Recibirás un mensaje de confirmación en tu teléfono y en tu email con los detalles del plan y las condiciones del servicio.
+Cliente: Excelente. Estoy muy contenta con el cambio y con el descuento. Gracias por todo.
+Empleado: Gracias a ti por confiar en Celtel. Te deseamos mucho éxito en tu nuevo trabajo y esperamos que sigas siendo nuestra cliente por mucho tiempo. Si tienes alguna duda o consulta, puedes contactarnos por teléfono, email o chat en cualquier momento. Que tengas un buen día.
+Cliente: Igualmente. Adiós.
+Empleado: Adiós.

@@ -1,0 +1,22 @@
+﻿Cliente: Hola, ¿qué tal? Soy Carlos Rodríguez y quiero crearme una cuenta en Celtel.
+Empleado: Bienvenido a Celtel, Carlos. Estamos encantados de que nos elijas como tu proveedor de telefonía. Para crear tu cuenta, solo tenemos que hacerte unas preguntas. ¿Te parece bien?
+Cliente: Sí, claro.
+Empleado: Muy bien. ¿Podrías decirnos tu nombre completo, tu fecha de nacimiento y tu dirección?
+Cliente: Claro. Me llamo Carlos Alberto Rodríguez, nací el 8 de agosto de 1986 y vivo en la calle Moreno 456.
+Empleado: Gracias por la información, Carlos. ¿Y cuál es tu correo electrónico y tu número de teléfono?
+Cliente: Mi correo es carlosrodriguez@ibm.com y mi teléfono es el 1189424754.
+Empleado: Excelente. Ahora necesitamos algunos datos de tu empresa. ¿Dónde trabajas?
+Cliente: Trabajo en IBM como analista de sistemas.
+Empleado: ¿Y cuál es tu número de empleado?
+Cliente: Mi número de empleado es el 5493.
+Empleado: ¿Desde cuándo trabajas en IBM?
+Cliente: Desde el 01/07/2019.
+Empleado: Muy bien. Ya tenemos todos los datos necesarios para crear tu cuenta. Ahora solo falta que elijas el plan que más te convenga. Tenemos cuatro opciones: plan ilimitado, plan escencial, plan familiar y plan internacional. ¿Quieres que te explique las características y beneficios de cada uno?
+Cliente: Sí, por favor.
+Empleado: El plan ilimitado te ofrece llamadas, mensajes y datos ilimitados dentro del país por un precio fijo mensual. El plan escencial te ofrece una cantidad limitada de minutos, mensajes y datos por un precio más económico. El plan familiar te permite compartir los beneficios del plan ilimitado o escencial con hasta cuatro líneas adicionales por un precio especial. Y el plan internacional te ofrece llamadas, mensajes y datos ilimitados dentro del país y a más de 50 destinos internacionales por un precio superior al del plan ilimitado. ¿Tienes alguna duda sobre los planes?
+Cliente: No, creo que lo tengo claro. Me gustaría inscribirme al plan ilimitado, ya que uso mucho el celular para trabajar y quiero tener la mejor calidad de servicio.
+Empleado: Muy buena elección, Carlos. El plan ilimitado te brinda la mejor cobertura y calidad de servicio en el mercado. Para confirmar tu inscripción al plan ilimitado, solo necesitamos que nos envíes una copia de tu documento de identidad y una factura de algún servicio a tu nombre para verificar tu domicilio. ¿Puedes hacerlo ahora mismo?
+Cliente: Sí, claro. Déjame buscar los documentos y te los envío por correo electrónico.
+Empleado: Perfecto. Te esperamos unos minutos y luego continuamos con el proceso de activación de tu línea.
+Cliente: Gracias por tu atención y paciencia.
+Empleado: De nada, Carlos. Es un placer atenderte.

@@ -1,0 +1,17 @@
+Cliente: Hola, buenas noches. Mi nombre es David Beckham y los llamo para darme de baja de su servicio. 
+Empleado: Hola, David. Gracias por comunicarse con Celtel. Soy Ana y estoy para ayudarlo. ¿Podría indicarme su fecha de nacimiento y su correo electrónico? 
+Cliente: Sí, mi fecha de nacimiento es el 2 de mayo de 1975 y mi correo electrónico es david@beckham.com.
+Empleado: Gracias, David. ¿Qué plan tiene actualmente y por qué desea darse de baja? 
+Cliente: Tengo el plan internacional y quiero darme de baja porque estoy muy decepcionado con su servicio. He tenido muchos problemas con la señal, los datos y la facturación. Además, el celular que me dieron se me dañó y no me lo quisieron cambiar. 
+Empleado: Lamento mucho escuchar eso, David. Celtel se esfuerza por brindar el mejor servicio a sus clientes. ¿Podría darme más detalles sobre los problemas que ha tenido? 
+Cliente: Pues verá, Ana. La señal se me corta constantemente cuando estoy hablando con mi familia o con mis compañeros de equipo. Los datos se me agotan muy rápido y no puedo usar las aplicaciones que necesito. La facturación es un desastre, me cobran cargos adicionales que no corresponden y no me dan una explicación clara. Y el celular que me dieron se trabó y no pude grabar mi golazo de tiro libre. Cuando fui a reclamar, me dijeron que no tenía garantía y que tenía que pagar por la reparación o comprar uno nuevo. 
+Empleado: Entiendo, David. Son situaciones muy molestas e inconvenientes. Le pido disculpas por las molestias ocasionadas. ¿Ha intentado comunicarse con nuestro servicio técnico o con nuestro servicio al cliente para resolver estos problemas? 
+Cliente: Sí, lo he intentado varias veces, pero nunca me dan una solución satisfactoria. Siempre me dicen que espere, que reinicie el celular, que verifiquen el caso, pero nada cambia. Estoy cansado de perder el tiempo y el dinero con ustedes. 
+Empleado: Lo comprendo, David. Respetamos su decisión de darse de baja de Celtel. Para proceder con la baja, necesito que me confirme su número de cliente y su dirección actual. 
+Cliente: Claro, mi número de cliente es 789012 y mi dirección actual es Chicago 456.
+Empleado: Muy bien, David. Ya he registrado su solicitud de baja. En breve recibirá un correo electrónico con la confirmación y los pasos a seguir para devolver el equipo. ¿Podría darme un número de teléfono para poder contactarlo en caso de que haya algún problema o consulta? 
+Cliente: Sí, claro. Mi número de teléfono es 1129345867. 
+Empleado: Perfecto, David. Muchas gracias por haber sido parte de Celtel. ¿Hay algo más en lo que pueda asistirlo? 
+Cliente: No, eso es todo. Espero que mejoren su servicio para que no pierdan más clientes de nivel como yo. 
+Empleado: Gracias por su comentario, David. Tomaremos nota de sus sugerencias para mejorar nuestro servicio. Que tenga una buena noche. 
+Cliente: Igualmente, Ana. Adiós.

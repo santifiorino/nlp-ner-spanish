@@ -1,0 +1,22 @@
+Cliente: Hola, llamaba para dar de baja mi cuenta de Celtel ahora mismo.
+Empleado: Hola, gracias por llamar a Celtel. Soy el agente que lo atenderá. ¿Podría decirme su nombre y su número de teléfono para acceder a su cuenta?
+Cliente: No, no puedo. No confío en nadie. Quiero que borren mi cuenta y todos mis datos. Quiero borrarme del mapa.
+Empleado: Entiendo, señor. Pero para poder procesar su solicitud de baja necesito verificar su identidad. ¿Podría al menos decirme su número de teléfono?
+Cliente: ¿Cómo sé que no sos un estafador que quiere robar mi información? ¿Cómo sé que realmente trabajas para Celtel?
+Empleado: Señor, le aseguro que soy un empleado de Celtel y que esta llamada es segura. Usted fue quien nos llamó al número oficial de nuestra empresa. Puede verificarlo en nuestra página web o en su factura.
+Cliente: Eso es lo que vos decís. Pero yo no creo en nada de eso. Todo es una mentira. Todo el mundo me quiere espiar y robar.
+Empleado: Señor, por favor, cálmese. Nadie le quiere hacer daño. Solo queremos ayudarlo a resolver su situación. Si usted quiere darse de baja de Celtel, tiene que proporcionarnos algunos datos para confirmar su identidad. De lo contrario, no podemos hacer nada.
+Cliente: ¿Y si te doy mis datos, me prometés que van a borrar todo? ¿Me prometés que nadie va a tener acceso a mi información?
+Empleado: Sí, señor. Le prometo que vamos a borrar todos sus datos personales y de facturación junto con su cuenta. Nadie va a poder acceder a ellos después de que se dé de baja.
+Cliente: Bueno, está bien. Te voy a dar mis datos. Pero solo porque vos me llamaste al número oficial de Celtel.
+Empleado: Gracias, señor. Le agradezco su cooperación. ¿Podría decirme su nombre completo y su número de teléfono?
+Cliente: Me llamo Juan Pérez y mi número es el 1134774353.
+Empleado: Gracias, señor Pérez. Ya tengo su cuenta en pantalla. Veo que tiene el plan premium con nosotros. ¿Qué motivo lo lleva a querer darse de baja de Celtel?
+Cliente: Ya te lo dije. Quiero borrarme del mapa. Quiero desaparecer. No quiero que nadie me moleste ni me espíe.
+Empleado: Está bien, señor Pérez. Respetamos su decisión. Para confirmar su solicitud de baja, necesito que me indique su fecha de nacimiento y su correo electrónico.
+Cliente: Mi fecha de nacimiento es el 23/09/1990 y mi correo electrónico es juanperez@gmail.com.
+Empleado: Perfecto, señor Pérez. He registrado su solicitud de baja y le enviaremos un correo electrónico con la confirmación. El proceso puede tardar hasta 48 horas hábiles. ¿Hay algo más en lo que pueda ayudarlo hoy?
+Cliente: Sí, hay algo más. Quiero que borren todos mis datos junto con mi cuenta. Quiero que no quede ningún rastro de mí en sus sistemas.
+Empleado: Entendido, señor Pérez. Le informo que al darse de baja de Celtel se eliminarán todos sus datos personales y de facturación junto con su cuenta. No tendremos ninguna información sobre usted después de que se dé de baja.
+Cliente: Gracias. Eso es lo que quiero.
+Empleado: De nada, señor Pérez. Ha sido un placer atenderlo. Gracias por haber confiado en Celtel. Le deseamos lo mejor. ¡Que tenga un buen día!

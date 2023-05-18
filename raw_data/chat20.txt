@@ -1,0 +1,18 @@
+Cliente: Hola, soy María González y los contacto para cambiarme al plan familiar de Celtel.
+Empleado: Hola María, gracias por elegir Celtel. Estamos encantados de que quieras disfrutar de nuestro plan familiar, que te ofrece llamadas, mensajes y datos móviles para hasta cuatro líneas por un precio fijo mensual.
+Cliente: Sí, me parece una oferta muy conveniente, porque le compramos un nuevo teléfono a mis abuelos y los queremos incorporar al plan.
+Empleado: ¡Qué buena idea! Con nuestro plan familiar podrás compartir los beneficios del servicio con tus abuelos y estar en contacto con ellos siempre que quieras.
+Cliente: Eso es lo que quiero. ¿Qué tengo que hacer para cambiarme al plan familiar?
+Empleado: Es muy fácil. Solo necesitamos verificar algunos datos tuyos y de tus abuelos para hacer el cambio. Empecemos por tu fecha de nacimiento. ¿Cuándo naciste?
+Cliente: Nací el 23 de julio de 1992.
+Empleado: Gracias. Ahora necesitamos tu email. ¿Cuál es tu dirección de correo electrónico?
+Cliente: Mi email es mariagonzalez@hotmail.com.
+Empleado: Perfecto. Por último, necesitamos tu número de teléfono. ¿Cuál es el número al que quieres aplicar el plan familiar?
+Cliente: Mi número es el 1138402834.
+Empleado: Muy bien. Ya tenemos todos los datos necesarios para hacer el cambio. Solo te pedimos que esperes unos minutos mientras procesamos tu solicitud.
+Cliente: De acuerdo. Muchas gracias por su atención.
+Empleado: De nada. Es un placer atenderte. Te informamos que tu solicitud ha sido procesada con éxito y que ya puedes disfrutar del plan familiar de Celtel. Recibirás un mensaje de confirmación en tu teléfono y en tu email con los detalles del plan y las condiciones del servicio.
+Cliente: Excelente. Estoy muy contenta con el cambio. Gracias por todo.
+Empleado: Gracias a ti por confiar en Celtel. Te deseamos que disfrutes del servicio con tus abuelos y esperamos que sigas siendo nuestra cliente por mucho tiempo. Si tienes alguna duda o consulta, puedes contactarnos por teléfono, email o chat en cualquier momento. Que tengas un buen día.
+Cliente: Igualmente. Adiós.
+Empleado: Adiós.

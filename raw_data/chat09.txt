@@ -1,0 +1,11 @@
+Cliente: Hola, buenos días. Mi nombre es Hernesto Gonzalez y los llamo para crear una cuenta.
+Empleado: Hola, Hernesto. Gracias por contactarnos. Para poder atender su solicitud, necesito que me proporcione su fecha de nacimiento y su correo electrónico. 
+Cliente: Claro. Mi fecha de nacimiento es el 15/03/1985 y mi correo electrónico es hgonzalez@gmail.com.
+Empleado: Muy bien. ¿En qué empresa trabaja y cuál es su numero de empleado? 
+Cliente: Trabajo en la empresa ICBC desde hace dos años. Mi número de empleado es el 07896. 
+Empleado: Perfecto. Ya tengo sus datos. ¿Podría dejarme un número de teléfono para poder contactarlo cuando se realice la operación? 
+Cliente: Sí, claro. Mi número es el 1133928631. 
+Empleado: Muchas gracias. Ya he solicitado la creación de la cuenta. En 48 horas estará llegándole la información. ¿Hay algo más en lo que pueda ayudarlo? 
+Cliente: No, eso era todo. Muchas gracias por su atención. 
+Empleado: De nada. Gracias por confiar en nosotros. Ha sido un placer atenderlo.
+Cliente: Igualmente. Adiós.

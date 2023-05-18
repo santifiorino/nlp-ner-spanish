@@ -1,0 +1,12 @@
+Cliente: Hola, ¿cómo están? Soy Lucas García y quiero cambiarme de plan en Celtel.
+Empleado: Bienvenido a Celtel, Lucas. Estamos muy contentos de que sigas confiando en nuestro servicio. ¿Podrías decirnos el motivo de tu cambio de plan?
+Cliente: Sí, claro. El motivo es que invertí en criptomonedas y perdí casi todo mi dinero. Ahora no tengo más plata para pagar el plan ilimitado que tengo actualmente y quiero pasarme al plan escencial, que es más barato.
+Empleado: Sentimos mucho que hayas tenido una mala experiencia con las criptomonedas, Lucas. Queremos ofrecerte nuestro apoyo y una solución. ¿Te gustaría cambiarte al plan escencial, que te ofrece una cantidad limitada de minutos, mensajes y datos por un precio más económico?
+Cliente: Sí, me gustaría. No me queda otra opción. ¿Qué tengo que hacer para cambiarme al plan escencial?
+Empleado: Es muy fácil, Lucas. Solo tenemos que verificar algunos datos tuyos y confirmar tu cambio de plan. ¿Nos podrías decir tu nombre completo, tu número de teléfono y tu correo electrónico?
+Cliente: Sí, claro. Me llamo Lucas Martín García, mi número de teléfono es el 1156789012 y mi correo electrónico es lucasgarcia@gmail.com.
+Empleado: Gracias por la información, Lucas. Ahora solo nos falta que nos envíes una copia de tu documento de identidad y una factura de algún servicio a tu nombre para verificar tu identidad y tu domicilio. ¿Podés hacerlo ahora mismo?
+Cliente: Sí, claro. Esperame un ratito que busco los documentos y te los mando por correo electrónico.
+Empleado: Perfecto. Te esperamos unos minutos y luego seguimos con el proceso de cambio de plan.
+Cliente: Gracias por tu atención y paciencia.
+Empleado: De nada, Lucas. Es un placer atenderte.

@@ -1,0 +1,18 @@
+Cliente: Hola, soy Laura Sánchez y los llamo para crear una cuenta. Quiero contratar el plan familiar de Celtel.
+Empleado: Hola, Laura. Bienvenida a Celtel. Estamos encantados de que quiera ser parte de nuestra familia. Para crear su cuenta, necesitamos que nos proporcione su fecha de nacimiento y su correo electrónico.
+Cliente: Claro, mi fecha de nacimiento es el 10 de octubre de 1988 y mi correo electrónico es laurasanchez@yahoo.com.
+Empleado: Gracias, Laura. Hemos creado su cuenta. Ahora, ¿podría decirnos en qué empresa trabaja y desde cuándo?
+Cliente: Claro, trabajo en KFC desde el 01/11/2020. Mi id de empleado es el 213576.
+Empleado: Gracias por esa información, Laura. Es un placer tenerla como cliente de Celtel. Ahora, le voy a explicar los detalles del plan familiar que ha elegido.
+Cliente: Sí, por favor.
+Empleado: El plan familiar le ofrece llamadas, mensajes de texto y datos ilimitados por solo $59.99 al mes. Además, puede compartir su plan con hasta cinco líneas adicionales sin costo extra. También tiene acceso a nuestra red 5G más rápida y confiable.
+Cliente: Eso suena muy bien. ¿Hay algún contrato a largo plazo o algún cargo por activación?
+Empleado: No, no hay ningún contrato a largo plazo ni ningún cargo por activación. Puede cancelar su plan cuando quiera sin penalizaciones.
+Cliente: Excelente. Entonces, quiero contratar el plan familiar. ¿Qué tengo que hacer?
+Empleado: Solo tiene que confirmar su consentimiento verbalmente y le enviaremos un mensaje de texto con los detalles del contrato.
+Cliente: De acuerdo, confirmo mi consentimiento para contratar el plan familiar.
+Empleado: Perfecto, Laura. Hemos procesado su contrato. Recibirá un mensaje de texto en breve con la confirmación. ¿Hay algo más en lo que podamos ayudarla hoy?
+Cliente: No, eso es todo. Muchas gracias por su atención y su servicio.
+Empleado: De nada, Laura. Gracias a usted por elegir Celtel. Que tenga un buen día.
+Cliente: Igualmente. Adiós.
+Empleado: Adiós.

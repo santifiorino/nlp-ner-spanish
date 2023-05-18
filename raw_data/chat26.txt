@@ -1,0 +1,24 @@
+Cliente: Hola, soy Martín Rodríguez y los llamo para crear una cuenta. Nunca he tenido un plan telefónico antes y no sé muy bien cómo funciona.
+Empleado: Hola, Martín. Bienvenido a Celtel. Estamos encantados de que quiera ser parte de nuestra familia. No se preocupe, le vamos a explicar todo lo que necesita saber para elegir el plan que más le convenga.
+Cliente: Gracias, eso me tranquiliza. ¿Qué planes tienen disponibles?
+Empleado: Tenemos cuatro planes diferentes: el plan ilimitado, el plan esencial, el plan familiar y el plan internacional. Cada uno tiene sus propias características y beneficios. ¿Qué tipo de uso le va a dar a su celular?
+Cliente: Pues la verdad es que no mucho. Solo quiero llamar y mandar mensajes a mis familiares y amigos. Y tal vez usar un poco de internet para ver las redes sociales o jugar al Clash Royale.
+Empleado: Entiendo. Entonces, le recomiendo el plan esencial. Le ofrece llamadas y mensajes de texto ilimitados a nivel nacional por solo $29.99 al mes. Además, tiene 2 GB de datos para navegar por internet a una velocidad razonable.
+Cliente: ¿Y eso es suficiente? ¿No me van a cobrar de más si me paso de los 2 GB?
+Empleado: No, no le vamos a cobrar de más. Si se pasa de los 2 GB, solo se reducirá la velocidad de su conexión, pero podrá seguir navegando sin costo adicional.
+Cliente: Ah, bueno. Y ¿cómo sé cuántos datos estoy usando?
+Empleado: Puede consultar su consumo en cualquier momento desde nuestra aplicación móvil o desde nuestro sitio web. También le enviaremos alertas cuando se acerque al límite o cuando lo supere.
+Cliente: Ya veo. Y ¿hay algún contrato a largo plazo o algún cargo por activación?
+Empleado: No, no hay ningún contrato a largo plazo ni ningún cargo por activación. Puede cancelar su plan cuando quiera sin penalizaciones.
+Cliente: Bueno, eso me parece justo. Entonces, quiero contratar el plan esencial. ¿Qué tengo que hacer?
+Empleado: Para contratar el plan esencial, necesitamos que nos proporcione su fecha de nacimiento y su correo electrónico.
+Cliente: Claro, mi fecha de nacimiento es el 5 de mayo de 2000 y mi correo electrónico es martinrodriguez@jkl.com.
+Empleado: Gracias, Martín. Hemos creado su cuenta. Ahora, ¿podría decirnos en qué empresa trabaja y desde cuándo?
+Cliente: Claro, trabajo en la empresa JKL desde hace seis meses. Mi id de empleado es el 789123.
+Empleado: Gracias por esa información, Martín. Es un placer tenerlo como cliente de Celtel. Ahora, solo tiene que confirmar su consentimiento verbalmente y le enviaremos un mensaje de texto con los detalles del contrato.
+Cliente: De acuerdo, confirmo mi consentimiento para contratar el plan esencial.
+Empleado: Perfecto, Martín. Hemos procesado su contrato. Recibirá un mensaje de texto en breve con la confirmación. ¿Hay algo más en lo que podamos ayudarlo hoy?
+Cliente: No, eso es todo. Muchas gracias por su atención y su servicio.
+Empleado: De nada, Martín. Gracias a usted por elegir Celtel. Que tenga un buen día.
+Cliente: Igualmente. Adiós.
+Empleado: Adiós.

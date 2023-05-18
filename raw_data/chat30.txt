@@ -1,0 +1,14 @@
+Cliente: Hola, quiero darme de baja de Celtel.
+Empleado: Hola, gracias por comunicarse con Celtel. Soy el agente que lo atenderá. ¿Podría indicarme su nombre y su número de teléfono para acceder a su cuenta?
+Cliente: Sí, me llamo Julieta Novoa y mi número es el 1144878098.
+Empleado: Gracias, señora Novoa. Ya tengo su cuenta en pantalla. Veo que tiene el plan básico con nosotros. ¿Qué motivo lo lleva a querer darse de baja de Celtel?
+Cliente: Es que no puedo pagar más el servicio. Estoy desempleada y tengo que ahorrar lo más posible. No puedo darme ningún lujo.
+Empleado: Entiendo, señora Novoa. Lamento mucho su situación. ¿Podría decirme en qué empresa trabajaba y desde cuándo está desempleada?
+Cliente: Trabajaba en la librería Cuspide. Era una librería muy bonita, pero tuvimos que cerrar por la pandemia. Estoy desempleada desde hace cuatro meses.
+Empleado: Vaya, señora Novoa. Eso debe ser muy duro. Le expreso mi solidaridad. Le pregunto esto porque en Celtel tenemos planes sociales y subsidios para personas en situación de vulnerabilidad económica. ¿Le gustaría escuchar algunas opciones que podrían ayudarlo a mantener su servicio de telefonía?
+Cliente: No, gracias. Aunque me ofrezcan un descuento o una ayuda, no puedo seguir pagando el servicio. Necesito recortar todos los gastos posibles. No sé cuánto tiempo voy a estar sin trabajo.
+Empleado: Está bien, señora Novoa. Respetamos su decisión. Para confirmar su solicitud de baja, necesito que me proporcione su fecha de nacimiento y su correo electrónico.
+Cliente: Mi fecha de nacimiento es el 15/04/1985 y mi correo electrónico es julietanovoa@hotmail.com.
+Empleado: Perfecto, señora Novoa. He registrado su solicitud de baja y le enviaremos un correo electrónico con la confirmación. El proceso puede demorar hasta 48 horas hábiles. ¿Hay algo más en lo que pueda asistirle hoy?
+Cliente: No, eso es todo. Gracias por su atención.
+Empleado: De nada, señora Novoa. Ha sido un placer atenderla. Gracias por haber confiado en Celtel. Le deseamos lo mejor. ¡Que tenga un buen día!

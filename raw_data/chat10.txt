@@ -1,0 +1,18 @@
+Cliente: Hola, buenas tardes. Mi nombre es María López y los llamo para darme de baja.
+Empleado: Hola, María. Lamentamos que quiera darse de baja de Celtel. ¿Podría indicarnos su fecha de nacimiento y su correo electrónico? 
+Cliente: Sí, mi fecha de nacimiento es el 21 de julio de 1990 y mi correo electrónico es marialopez@hotmail.com.
+Empleado: Gracias, María. ¿Por qué desea darse de baja?
+Cliente: Quiero darme de baja porque me voy a mudar a otro país y ya no necesito el servicio. 
+Empleado: Entiendo, María. ¿A qué país se va a mudar y cuándo? 
+Cliente: Me voy a mudar a Canadá el mes que viene. Voy a estudiar una maestría allá.
+Empleado: Qué bien, María. Le deseamos mucho éxito en sus estudios. ¿Sabe que Celtel tiene un plan internacional que le permite mantener su número y comunicarse con sus familiares y amigos en su país de origen por un precio muy conveniente? 
+Cliente: No, no lo sabía. ¿Cómo funciona ese plan? 
+Empleado: El plan internacional le ofrece llamadas ilimitadas a su país de origen, mensajes ilimitados a cualquier destino y 10 GB de datos por mes por solo 30 dólares canadienses. Además, puede conservar su número actual y no tiene permanencia mínima.
+Cliente: Suena interesante, pero creo que prefiero darme de baja y contratar un servicio local en Canadá.
+Empleado: Está bien, María. Respetamos su decisión. Para proceder con la baja, necesito que me confirme su número de cliente y su dirección actual. 
+Cliente: Claro, mi número de cliente es 654321 y mi dirección actual es Libertador al 1500. 
+Empleado: Muy bien, María. Ya he registrado su solicitud de baja. En breve recibirá un correo electrónico con la confirmación y los pasos a seguir para devolver el equipo. ¿Podría darme un número de teléfono para poder contactarla en caso de que haya algún problema o consulta?
+Cliente: Sí, claro. Mi número de teléfono es 1185679229. 
+Empleado: Perfecto, María. Muchas gracias por haber sido parte de Celtel. ¿Hay algo más en lo que pueda asistirla?
+Cliente: No, eso es todo. Muchas gracias por su atención y cordialidad. 
+Empleado: De nada, María. Ha sido un gusto atenderla. Que tenga un buen viaje y una excelente estadía en Canadá. Cliente: Muchas gracias. Adiós.

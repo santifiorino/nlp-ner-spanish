@@ -1,0 +1,12 @@
+﻿Cliente: Hola, ¿cómo están? Soy José Pérez y quiero cambiarme de plan en Celtel.
+Empleado: Bienvenido a Celtel, José. Estamos muy contentos de que sigas confiando en nuestro servicio. ¿Podrías decirnos el motivo de tu cambio de plan?
+Cliente: Sí, claro. El motivo es que me voy a casar y quiero tener un plan que me permita compartir los beneficios con mi pareja. Actualmente tengo el plan escencial y creo que no me conviene para mi nueva situación.
+Empleado: Entendemos tu situación, José. Queremos felicitarte por tu casamiento y ofrecerte una solución. ¿Te gustaría cambiarte al plan familiar, que te permite compartir los beneficios del plan ilimitado o escencial con hasta cuatro líneas adicionales por un precio especial?
+Cliente: Sí, me gustaría mucho. Creo que es el plan que más se adapta a mis necesidades. ¿Qué tengo que hacer para cambiarme al plan familiar?
+Empleado: Es muy fácil, José. Solo tenemos que verificar algunos datos tuyos y confirmar tu cambio de plan. ¿Nos podrías decir tu nombre completo, tu número de teléfono y tu correo electrónico?
+Cliente: Sí, claro. Me llamo José Manuel Pérez, mi número de teléfono es el 1134567890 y mi correo electrónico es joseperez@gmail.com.
+Empleado: Gracias por la información, José. Ahora solo nos falta que nos envíes una copia de tu documento de identidad y una factura de algún servicio a tu nombre para verificar tu identidad y tu domicilio. ¿Podés hacerlo ahora mismo?
+Cliente: Sí, claro. Esperame un ratito que busco los documentos y te los mando por correo electrónico.
+Empleado: Perfecto. Te esperamos unos minutos y luego seguimos con el proceso de cambio de plan.
+Cliente: Gracias por tu atención y paciencia.
+Empleado: De nada, José. Es un placer atenderte.

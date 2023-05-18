@@ -1,0 +1,12 @@
+Cliente: Hola, ¿cómo están? Soy Ana López y quiero cambiarme de plan en Celtel.
+Empleado: Bienvenida a Celtel, Ana. Estamos muy contentos de que sigas confiando en nuestro servicio. ¿Podrías decirnos el motivo de tu cambio de plan?
+Cliente: Sí, por supuesto. El motivo es que me voy a mudar a otro país por trabajo y quiero tener un plan que me permita comunicarme con mi familia y amigos en Argentina sin problemas. Actualmente tengo el plan escencial y creo que no me conviene para mi nueva situación.
+Empleado: Entendemos tu situación, Ana. Queremos felicitarte por tu oportunidad laboral y ofrecerte una solución. ¿Te gustaría cambiarte al plan internacional, que te ofrece llamadas, mensajes y datos ilimitados dentro del país y a más de 50 destinos internacionales por un precio superior al del plan escencial?
+Cliente: Sí, me gustaría cambiar al plan internacional, es el que más se adapta a mis necesidades. ¿Qué tengo que hacer?
+Empleado: Es muy fácil, Ana. Solo tenemos que verificar algunos datos tuyos y confirmar tu cambio de plan. ¿Nos podrías decir tu nombre completo, tu número de teléfono y tu correo electrónico?
+Cliente: Sí, claro. Me llamo Ana Laura López Pérez, mi número de teléfono es el 1192830271 y mi correo electrónico es analopez@gmail.com.
+Empleado: Gracias por la información, Ana. Ahora solo nos falta que nos envíes una copia de tu documento de identidad y una factura de algún servicio a tu nombre para verificar tu identidad y tu domicilio. ¿Podés hacerlo ahora mismo?
+Cliente: Sí, claro. Esperame un ratito que busco los documentos y te los mando por correo electrónico.
+Empleado: Perfecto. Te esperamos unos minutos y luego seguimos con el proceso de cambio de plan.
+Cliente: Gracias por tu atención y paciencia.
+Empleado: De nada, Ana. Es un placer atenderte.

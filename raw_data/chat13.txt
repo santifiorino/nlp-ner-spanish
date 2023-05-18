@@ -1,0 +1,11 @@
+Cliente: Buen día, soy Ana Rodríguez y los llamo para cambiarme a otro plan.
+Empleado: Buen día Ana, le damos las gracias por elegir Celtel. Para poder asistirle, necesitamos que nos indique su fecha de nacimiento y su correo electrónico.
+Cliente: Dale, mi fecha de nacimiento es el 5 de mayo de 1992 y mi correo es anarodriguez@gmail.com.
+Empleado: Le agradecemos por la data. ¿A qué plan le gustaría cambiarse?
+Cliente: Me gustaría cambiarme al plan escencial, que tiene lo básico.
+Empleado: Muy bien, el plan escencial tiene un costo de $30 por mes. ¿En qué empresa labura y desde cuándo?
+Cliente: Laburo en Amazon desde el primero de marzo del 2020.
+Empleado: Genial, hemos procesado su pedido y enseguida le llega un correo de confirmación. ¿Hay algo más en lo que le podamos dar una mano?
+Cliente: No, todo joya. Gracias por la onda.
+Empleado: De nada, ha sido un gusto atenderle. Que la pase bien.
+Cliente: Igualmente, chau.

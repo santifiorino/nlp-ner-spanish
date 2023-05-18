@@ -1,0 +1,17 @@
+Empleado: Hola, le habla Camila de Celtel. ¿Con quién tengo el gusto? 
+Cliente: Hola, Camila. Yo soy Salomon Moreno. Te hablo porque quiero darme de baja de mi plan. No me sirve para nada. 
+Empleado: ¿Qué plan tiene actualmente y por qué no le sirve? 
+Cliente: Tengo el plan esencial y no me sirve porque se me acaban los datos y los minutos muy rápido. Yo trabajo como repartidor de Rappi y necesito estar conectado todo el tiempo. 
+Empleado: Entiendo su situación. Antes de proceder con la baja, ¿me permite ofrecerle una solución? 
+Cliente: ¿Qué solución parcera? 
+Empleado: Podemos ofrecerle un cambio de plan a uno que se adapte mejor a sus necesidades laborales. También podemos enviar un técnico a su domicilio para verificar el estado de la señal y el internet. 
+Cliente: ¿Y qué plan me ofrecen? 
+Empleado: Podemos ofrecerle el plan ilimitado, que le ofrece datos y minutos ilimitados por un precio fijo mensual. Así podrá usar la aplicación de Rappi y comunicarse con los clientes sin preocuparse por el consumo. 
+Cliente: ¿Y cuánto me saldría ese plan? 
+Empleado: El plan ilimitado tiene un costo de $1000 por mes. Pero como usted es un cliente valioso para nosotros, le podemos hacer un descuento del 20% en la primera factura. Así solo pagaría $800 por el primer mes. 
+Cliente: Mmm… suena bien, pero no sé. ¿Me puedo tomar un tiempo para pensarlo? 
+Empleado: Claro, no hay problema. Le podemos reservar esta oferta por 48 horas. Si decide aceptarla, solo tiene que llamar al *611 desde su celular y decir “quiero el plan ilimitado”. ¿Le parece bien? 
+Cliente: Sí, me parece bien. Gracias por la oferta. 
+Empleado: De nada. Gracias a usted por confiar en Celtel. ¿Hay algo más en lo que pueda ayudarlo?
+Cliente: No, eso era todo muy amable por la atencion querida. 
+Empleado: Bueno, entonces le deseo un buen día y espero que se quede con nosotros.

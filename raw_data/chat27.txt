@@ -1,0 +1,18 @@
+Cliente: Hola, soy Carlos Gómez y los llamo para cambiar de plan. Estoy pagando mucho por el plan internacional y quiero ver otras opciones más baratas.
+Empleado: Hola, Carlos. Gracias por contactarnos. Para verificar su identidad, necesitamos que nos proporcione su fecha de nacimiento y su correo electrónico.
+Cliente: Claro, mi fecha de nacimiento es el 30 de junio de 1970 y mi correo electrónico es carlosgomez@ibm.com.
+Empleado: Gracias, Carlos. Hemos verificado su cuenta. Ahora, ¿qué plan le interesa cambiar?
+Cliente: Bueno, me gustaría saber más sobre el plan familiar. ¿Qué beneficios tiene y cuánto cuesta?
+Empleado: El plan familiar le ofrece llamadas y mensajes de texto ilimitados a nivel nacional por solo $59.99 al mes Además puede compartir su plan con hasta cinco líneas adicionales sin costo extra También tiene acceso a nuestra red 5G más rápida y confiable
+Cliente: Eso suena muy bien ¿Hay algún cargo por cambiar de plan o algún contrato a largo plazo?
+Empleado: No no hay ningún cargo por cambiar de plan ni ningún contrato a largo plazo Puede cambiar de plan cuando quiera sin penalizaciones
+Cliente: Excelente. Entonces quiero cambiar al plan familiar ¿Qué tengo que hacer?
+Empleado: Solo tiene que confirmar su consentimiento verbalmente y le enviaremos un mensaje de texto con los detalles del cambio. Para eso,¿Podría decirme su número de teléfono por favor?
+Cliente: De acuerdo, confirmo mi consentimiento para cambiar al plan familiar. Mi teléfono es 1108981023.
+Empleado: Perfecto Carlos. Hemos procesado su cambio de plan. Recibirá un mensaje de texto en breve con la confirmación. Antes de despedirnos ¿podría decirnos en qué empresa trabaja y desde cuándo?
+Cliente: Claro trabajo en IBM desde hace el 01/09/2000. Mi id de empleado es el 651129
+Empleado: Gracias por esa información Carlos, es un placer tenerlo como cliente de Celtel ¿Hay algo más en lo que podamos ayudarlo hoy?
+Cliente: No eso es todo Muchas gracias por su atención y su servicio
+Empleado: De nada Carlos. Gracias a usted por elegir Celtel. Que tenga un buen día
+Cliente: Igualmente Adiós
+Empleado: Adiós

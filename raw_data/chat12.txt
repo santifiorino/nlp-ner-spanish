@@ -1,0 +1,13 @@
+Cliente: Hola, soy Martín López y quiero cambiarme de plan.
+Empleado: Hola Martín, le agradecemos por contactarse con Celtel. Para poder atenderle, necesitamos que nos proporcione su fecha de nacimiento y su email.
+Cliente: Ok, mi fecha de nacimiento es el 10 de noviembre de 1987 y mi email es martinlopez@yahoo.com.
+Empleado: Le agradecemos por la información. ¿A qué plan desea cambiarse?
+Cliente: Quiero cambiarme al plan ilimitado, que tiene todo sin límite.
+Empleado: Muy bien, el plan ilimitado tiene un costo de $50 por mes. ¿En qué empresa trabaja y desde cuándo?
+Cliente: Trabajo en Google desde el 01/03/2018.
+Empleado: Perfecto, entonces usted tiene derecho al plan ilimitado con un descuento del 10% por convenio con su empresa. ¿Está de acuerdo con el cambio de plan?
+Cliente: Sí, estoy de acuerdo.
+Empleado: Excelente, hemos registrado su solicitud y pronto recibirá un email de confirmación. ¿Hay algo más en lo que podamos ayudarle?
+Cliente: No, eso es todo. Gracias por la atención.
+Empleado: De nada, ha sido un placer atenderle. Que tenga un buen día.
+Cliente: Igualmente, adiós.

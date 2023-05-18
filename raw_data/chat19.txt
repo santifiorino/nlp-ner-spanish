@@ -1,0 +1,18 @@
+Cliente: Hola, soy Sebastián Pérez y los contacto para cambiarme de plan, quiero el plan ilimitado de Celtel.
+Empleado: Hola Sebastián, gracias por elegir Celtel. Estamos encantados de que quieras disfrutar de nuestro plan ilimitado, que te ofrece llamadas, mensajes y datos móviles sin límites por un precio fijo mensual.
+Cliente: Sí, me parece una oferta muy conveniente, porque he decidido comprar un motorhome para viajar por el país, y quiero usar los datos móviles como mi principal fuente de acceso a internet.
+Empleado: ¡Qué buena decisión! Con nuestro plan ilimitado podrás navegar por internet, ver videos, escuchar música y estar conectado con tus seres queridos sin preocuparte por el consumo de datos.
+Cliente: Eso es lo que necesito. ¿Qué tengo que hacer para cambiarme al plan ilimitado?
+Empleado: Es muy fácil. Solo necesitamos verificar algunos datos tuyos para hacer el cambio. Empecemos por tu fecha de nacimiento. ¿Cuándo naciste?
+Cliente: Nací el 15/03/1985.
+Empleado: Gracias. Ahora necesitamos tu email. ¿Cuál es tu dirección de correo electrónico?
+Cliente: Mi email es sebaperez@gmail.com.
+Empleado: Perfecto. Por último, necesitamos tu número de teléfono. ¿Cuál es el número al que quieres aplicar el plan ilimitado?
+Cliente: Mi número es el 1173946384.
+Empleado: Muy bien. Ya tenemos todos los datos necesarios para hacer el cambio. Solo te pedimos que esperes unos minutos mientras procesamos tu solicitud.
+Cliente: De acuerdo. Muchas gracias por su atención.
+Empleado: De nada. Es un placer atenderte. Te informamos que tu solicitud ha sido procesada con éxito y que ya puedes disfrutar del plan ilimitado de Celtel. Recibirás un mensaje de confirmación en tu teléfono y en tu email con los detalles del plan y las condiciones del servicio.
+Cliente: Excelente. Estoy muy contento con el cambio. Gracias por todo.
+Empleado: Gracias a ti por confiar en Celtel. Te deseamos un buen viaje por el país y esperamos que sigas siendo nuestro cliente por mucho tiempo. Si tienes alguna duda o consulta, puedes contactarnos por teléfono, email o chat en cualquier momento. Que tengas un buen día.
+Cliente: Igualmente. Adiós.
+Empleado: Adiós.

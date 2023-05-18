@@ -1,0 +1,18 @@
+Cliente: Hola, soy Martín Sánchez y los contacto para cambiarme al plan ilimitado de Celtel.
+Empleado: Hola Martín, gracias por elegir Celtel. Estamos encantados de que quieras disfrutar de nuestro plan ilimitado, que te ofrece llamadas, mensajes y datos móviles sin límites por un precio fijo mensual.
+Cliente: Sí, me parece una oferta muy conveniente, porque conseguí un trabajo en el que gano en dólares, y como en Argentina el cambio está muy favorable al dólar, el peso cada vez pierde más y más valor, ahora gano muchísimo. Como el plan de Celtel se paga en pesos, puedo pagar el plan más caro de todos.
+Empleado: ¡Qué bueno que hayas conseguido ese trabajo! Te felicitamos por tu éxito económico. Te informamos que el precio del plan ilimitado es de $50 mensuales, que al cambio actual serían unos 0.5 dólares. ¿Te interesa hacer el cambio?
+Cliente: Sí, me interesa mucho. ¿Qué tengo que hacer para cambiarme al plan ilimitado?
+Empleado: Es muy fácil. Solo necesitamos verificar algunos datos tuyos para hacer el cambio. Empecemos por tu fecha de nacimiento. ¿Cuándo naciste?
+Cliente: Nací el 18 de noviembre de 1988.
+Empleado: Gracias. Ahora necesitamos tu email. ¿Cuál es tu dirección de correo electrónico?
+Cliente: Mi email es martinsanchez@gmail.com.
+Empleado: Perfecto. Por último, necesitamos tu número de teléfono. ¿Cuál es el número al que quieres aplicar el plan ilimitado?
+Cliente: Mi número es el 1155548765.
+Empleado: Muy bien. Ya tenemos todos los datos necesarios para hacer el cambio. Solo te pedimos que esperes unos minutos mientras procesamos tu solicitud.
+Cliente: De acuerdo. Muchas gracias por su atención.
+Empleado: De nada. Es un placer atenderte. Te informamos que tu solicitud ha sido procesada con éxito y que ya puedes disfrutar del plan ilimitado de Celtel. Recibirás un mensaje de confirmación en tu teléfono y en tu email con los detalles del plan y las condiciones del servicio.
+Cliente: Excelente. Estoy muy contento con el cambio y con el precio. Gracias por todo.
+Empleado: Gracias a ti por confiar en Celtel. Te deseamos que sigas prosperando en tu trabajo y esperamos que sigas siendo nuestro cliente por mucho tiempo. Si tienes alguna duda o consulta, puedes contactarnos por teléfono, email o chat en cualquier momento. Que tengas un buen día.
+Cliente: Igualmente. Adiós.
+Empleado: Adiós.

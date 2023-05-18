@@ -1,0 +1,14 @@
+﻿Cliente: Hola, buenos días. Mi nombre es Juan Pérez y los llamo para cambiar de plan. 
+Empleado: Hola, Juan. Gracias por comunicarse con Celtel. Para poder asistirlo, necesito que me indique su fecha de nacimiento y su correo electrónico. 
+Cliente: Claro, mi fecha de nacimiento es el 15 de marzo de 1985 y mi correo electrónico es juanperez@gmail.com.
+Empleado: Muy bien, Juan. ¿Qué plan desea contratar? 
+Cliente: Me gustaría pasarme al plan ilimitado, que ofrece llamadas, mensajes y datos sin límite por un precio fijo mensual. 
+Empleado: Entiendo, Juan. El plan ilimitado es una excelente opción para quienes usan mucho el celular. ¿En qué empresa trabaja y desde cuándo? 
+Cliente: Trabajo en la empresa DELL desde el primero de agosto del 2021. Soy el gerente de ventas. 
+Empleado: Bien, Juan. Necesito que me proporcione su número de empleado para verificar su elegibilidad para el plan ilimitado. 
+Cliente: Claro, mi número de empleado es 123456. 
+Empleado: Perfecto, Juan. Ya he procesado su solicitud de cambio de plan. En breve recibirá un correo electrónico con la confirmación y los detalles del nuevo plan. ¿Podría darme un número de teléfono para poder contactarlo en caso de que haya algún inconveniente o duda? 
+Cliente: Sí, claro. Mi número de teléfono es 1188339977. 
+Empleado: Muy bien, Juan. Muchas gracias por elegir Celtel. ¿Hay algo más en lo que pueda ayudarlo? 
+Cliente: No, eso es todo. Muchas gracias por su atención y amabilidad.
+Empleado: De nada, Juan. Ha sido un placer atenderlo.
