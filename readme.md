@@ -8,7 +8,7 @@ La página web https://tecoholic.github.io/ner-annotator/ te da una interfaz ami
 python add_annotations_to_dataset.py
 ```
 
-El script <a href="https://github.com/santifiorino/spanish_ner/blob/main/add_annotations_to_dataset.py">add*annotations_to_dataset.py</a> se fijará si existe el archivo \_dataset.csv*. En caso de que exista, agrega la información nueva al final, manteniendo la numeración existente. En caso de que no exista, crea el archivo.
+El script <a href="https://github.com/santifiorino/spanish_ner/blob/main/add_annotations_to_dataset.py">add_annotations_to_dataset.py</a> se fijará si existe el archivo _dataset.csv_. En caso de que exista, agrega la información nueva al final, manteniendo la numeración existente. En caso de que no exista, crea el archivo.
 
 ## Modelo de spaCy
 

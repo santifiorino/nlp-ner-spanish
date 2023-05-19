@@ -13,7 +13,7 @@ def main():
         print('No se encontraron modelos entrenados')
         sys.exit(1)
     max_iterations = max(models_iterations)
-    print(f'Using model with {max_iterations} iterations')
+    print(f'\n\nUsando el modelo con {max_iterations} iteraciones\n')
     nlp = spacy.load(f'ner_{max_iterations}_iterations')
     with open(input_txt, 'r', encoding='utf-8') as f:
         for line in f:
